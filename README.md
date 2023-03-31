@@ -6,6 +6,6 @@
 
 Quickly query all types of block chain asset prices, quick query Bitcoin, ether square, Zcash wallet balance.
 
-串接API取得區塊鍊資訊
+串接API取得區塊鏈資訊
 
-![預覽](https://github.com/sd0xdev/BitcoinBlockChainMinimalist/blob/master/BitcoinBlockChainMinimalist-GIF.gif?raw=true)
+![預覽](https://github.com/sd0xdev/BitcoinBlockChainMinimalist/blob/main/BitcoinBlockChainMinimalist-GIF.gif?raw=true)
